@@ -1,0 +1,15 @@
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\mujahid\Desktop\Running Project\Reactivities\persistence\obj\Debug\net5.0\Persistence.pdb
